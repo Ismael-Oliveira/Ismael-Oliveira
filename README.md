@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Ismael Oliveira from Brazil (🇧🇷). I graduated in computer engineering from Inatel in 2017 and I've been studied development Front-End  and a little Back-End since. Currently I'm doing a Postgraduate of [Development Web Full Stack - PUC Minas](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Paginas/Desenvolvimento-Web-Full-Stack.aspx?moda=1&polo=1&area=11&curso=2967&situ=1).
+
+In my free time I like to play (and watch) soccer (⚽️), running (🏃), to watch movies (🎞️) and series (📺) and eventually I like to think about future.
+
+Would you like to find me?
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCczCRXH8-PaQX42c4WESTDg)](https://www.youtube.com/channel/UCczCRXH8-PaQX42c4WESTDg)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismael-oliveira-51065a116/)](https://www.linkedin.com/in/ismael-oliveira-51065a116/)
+
 <!--
 **Ismael-Oliveira/Ismael-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
